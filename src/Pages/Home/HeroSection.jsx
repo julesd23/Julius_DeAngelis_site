@@ -3,6 +3,7 @@ import { TiStarOutline } from "react-icons/ti";
 // @ts-ignore
 import resume from "../../assets/Julius_Resume_2024.pdf";
 import { Link } from "react-scroll";
+import heroPhoto from "../../assets/BIOPIC4.jpg"
 
 export default function HeroSection() {
 
@@ -23,7 +24,7 @@ export default function HeroSection() {
                   </div>
                   <div className="divider-custom-line"></div>
                 </div>
-                <p className="hero--section-description">
+                <p className="skills--section--title">
                   Software Developer - Musician
                 </p>
                 <div className="hero--btn">
@@ -59,7 +60,7 @@ export default function HeroSection() {
             transition={{ duration: 0.5, delay: 1 }}
           >
             <div className="hero--section--img">
-              <img src="./img/BIOPIC4.jpg" alt="Hero Section" />
+              <img src={heroPhoto} alt="Hero Section" />
             </div>
           </motion.div>
     </section>

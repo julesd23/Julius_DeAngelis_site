@@ -1,6 +1,8 @@
 import ArtTrackIcon from "@mui/icons-material/ArtTrack";
 import StorageIcon from '@mui/icons-material/Storage';
 import PeopleAltIcon from '@mui/icons-material/PeopleAlt';
+import taskTrackerPic from "../assets/mytasks_photo.png"
+import busTrackerPic from "../assets/bus_tracker.png"
 
 export const skills = [
   {
@@ -29,7 +31,7 @@ export const skills = [
 export const portfolio = [
   {
     id: "1",
-    src: "./img/mytasks_photo.png",
+    src: taskTrackerPic,
     title: "Full Stack Task Tracker",
     description:
       "An excercise in using NextJs with Clerk for authentication, a MongoDB database, and Mantine as a styling library.",
@@ -45,7 +47,7 @@ export const portfolio = [
   },
   {
     id: "3",
-    src: "./img/bus_tracker.png",
+    src: busTrackerPic,
     title: "Real Time Bus Tracker",
     description:
       "This is a simple project to display how one can integrate both the Mapbox and the Boston MBTA APIs to display live bus locations.",

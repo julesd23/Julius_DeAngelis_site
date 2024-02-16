@@ -1,5 +1,6 @@
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
+import drummingPic from "../../assets/portfoliopic.jpeg"
 
 export default function AboutMe() {
   return (
@@ -10,7 +11,7 @@ export default function AboutMe() {
             animate={{ opacity: 1, translateY: 0 }}
             transition={{ duration: 0.5, delay: 0.5 }}
           >
-            <img src="./img/portfoliopic.jpeg" alt="About Me" />
+            <img src={drummingPic} alt="About Me" />
           </motion.div>
           <motion.div
             className="hero--section--content--box about--section--box"
