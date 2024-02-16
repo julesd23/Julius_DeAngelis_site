@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.576186de.css",
-    "main.js": "/static/js/main.6506ece3.js",
-    "static/media/Julius_Resume_2024.pdf": "/static/media/Julius_Resume_2024.f1cd3d763f92532f1573.pdf",
-    "index.html": "/index.html",
-    "main.576186de.css.map": "/static/css/main.576186de.css.map",
-    "main.6506ece3.js.map": "/static/js/main.6506ece3.js.map"
+    "main.css": "/Julius_DeAngelis_site/static/css/main.576186de.css",
+    "main.js": "/Julius_DeAngelis_site/static/js/main.68da9958.js",
+    "static/media/Julius_Resume_2024.pdf": "/Julius_DeAngelis_site/static/media/Julius_Resume_2024.f1cd3d763f92532f1573.pdf",
+    "index.html": "/Julius_DeAngelis_site/index.html",
+    "main.576186de.css.map": "/Julius_DeAngelis_site/static/css/main.576186de.css.map",
+    "main.68da9958.js.map": "/Julius_DeAngelis_site/static/js/main.68da9958.js.map"
   },
   "entrypoints": [
     "static/css/main.576186de.css",
-    "static/js/main.6506ece3.js"
+    "static/js/main.68da9958.js"
   ]
 }
