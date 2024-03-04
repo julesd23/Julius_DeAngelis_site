@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Julius_DeAngelis_site/static/css/main.2c5ecca7.css",
-    "main.js": "/Julius_DeAngelis_site/static/js/main.ea79db64.js",
+    "main.js": "/Julius_DeAngelis_site/static/js/main.8b878d53.js",
     "static/media/BIOPIC4.jpg": "/Julius_DeAngelis_site/static/media/BIOPIC4.628ceea1f8d23ef620da.jpg",
     "static/media/bus_tracker.png": "/Julius_DeAngelis_site/static/media/bus_tracker.4818a97b6e4bfc7d0c3d.png",
     "static/media/mytasks_photo.png": "/Julius_DeAngelis_site/static/media/mytasks_photo.eb00455c689d216ea1f4.png",
@@ -9,10 +9,10 @@
     "static/media/Julius_Resume_2024.pdf": "/Julius_DeAngelis_site/static/media/Julius_Resume_2024.f1cd3d763f92532f1573.pdf",
     "index.html": "/Julius_DeAngelis_site/index.html",
     "main.2c5ecca7.css.map": "/Julius_DeAngelis_site/static/css/main.2c5ecca7.css.map",
-    "main.ea79db64.js.map": "/Julius_DeAngelis_site/static/js/main.ea79db64.js.map"
+    "main.8b878d53.js.map": "/Julius_DeAngelis_site/static/js/main.8b878d53.js.map"
   },
   "entrypoints": [
     "static/css/main.2c5ecca7.css",
-    "static/js/main.ea79db64.js"
+    "static/js/main.8b878d53.js"
   ]
 }
